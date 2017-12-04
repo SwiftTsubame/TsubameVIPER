@@ -3,7 +3,8 @@
 //
 //  Created by Haiyan Ma on 04/12/2017.
 //  Copyright © 2017 Haiyan Ma. All rights reserved.
-//
+//  This file is originally created by https://github.com/Juanpe/Swift-VIPER-Module. Modifications have been made to adapt to
+//  our particular needs. 
 
 
 import Foundation
