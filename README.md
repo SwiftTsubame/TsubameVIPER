@@ -30,3 +30,6 @@ The feedback from inner layers to outlayers can be achieved by **closures, notif
 
 ## References: 
 **Clean Architecture**: This serie of tutorial is written for Android platform. But the core principle of clean architecture on dependency rule, abstraction and communication between layers can be shared on iOS platform as well.  http://five.agency/android-architecture-part-2-clean-architecture/ 
+
+## Code Example: 
+**TO DO**: An example app will be provided shorted to highlight the approach of closure driven VIPER architecture in iOS.
