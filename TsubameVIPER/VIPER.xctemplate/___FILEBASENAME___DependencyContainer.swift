@@ -14,11 +14,10 @@ class ___VARIABLE_productName:identifier___DependencyContainer {
     private lazy var interactor = ___VARIABLE_productName:identifier___Interactor()
     private lazy var router = ___VARIABLE_productName:identifier___Router()
     private lazy var presenter = ___VARIABLE_productName:identifier___Presenter(interactor: interactor, router: router)
-    
+
     func createModule() -> UIViewController {
         let view = ___VARIABLE_productName:identifier___ViewController(nibName: nil, bundle: nil)
         view.presenter = presenter
         return view
     }
 }
-
