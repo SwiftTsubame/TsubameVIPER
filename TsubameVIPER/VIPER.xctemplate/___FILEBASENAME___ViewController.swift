@@ -10,7 +10,7 @@
 
 import UIKit
 
-protocol ___VARIABLE_productName:identifier___Viewing: class{
+protocol ___VARIABLE_productName:identifier___Viewing: class {
     var presenter: ___VARIABLE_productName:identifier___Presentation? { get set }
 }
 
