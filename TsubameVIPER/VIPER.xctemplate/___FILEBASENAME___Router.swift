@@ -11,11 +11,11 @@
 import UIKit
 
 protocol ___VARIABLE_productName:identifier___Routing: class {
-    
 }
+
 class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___Routing {
     private let container: ___VARIABLE_productName: identifier___DependencyContainer
-    
+
     init(container: ___VARIABLE_productName: identifier___DependencyContainer = ___VARIABLE_productName:identifier___DependencyContainer()) {
         self.container = container
     }
