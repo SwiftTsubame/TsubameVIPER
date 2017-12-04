@@ -11,12 +11,14 @@
 import Foundation
 
 protocol ___VARIABLE_productName:identifier___Presentation: class{
+    var interactor: ___VARIABLE_productName: identifier___Interaction
+    var router: ___VARIABLE_productName: identifier___Routing
 }
 
 class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:identifier___Presentation {
 
-    private let interactor: ___VARIABLE_productName: identifier___Interaction
-    private let router: ___VARIABLE_productName: identifier___Routing
+    var interactor: ___VARIABLE_productName: identifier___Interaction
+    var router: ___VARIABLE_productName: identifier___Routing
 
     init(interactor: ___VARIABLE_productName: identifier___Interaction,
         router: ___VARIABLE_productName: identifier___Routing) {
