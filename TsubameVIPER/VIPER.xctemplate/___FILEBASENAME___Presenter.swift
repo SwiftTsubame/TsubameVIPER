@@ -21,7 +21,7 @@ class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:id
     var router: ___VARIABLE_productName: identifier___Routing
 
     init(interactor: ___VARIABLE_productName: identifier___Interaction,
-        router: ___VARIABLE_productName: identifier___Routing) {
+         router: ___VARIABLE_productName: identifier___Routing) {
         self.interactor = interactor
         self.router = router
     }
