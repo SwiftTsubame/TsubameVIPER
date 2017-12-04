@@ -10,9 +10,9 @@
 
 import Foundation
 
-protocol ___VARIABLE_productName:identifier___Presentation: class{
-    var interactor: ___VARIABLE_productName: identifier___Interaction {get}
-    var router: ___VARIABLE_productName: identifier___Routing {get}
+protocol ___VARIABLE_productName:identifier___Presentation: class {
+    var interactor: ___VARIABLE_productName: identifier___Interaction { get }
+    var router: ___VARIABLE_productName: identifier___Routing { get }
 }
 
 class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:identifier___Presentation {
